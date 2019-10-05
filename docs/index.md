@@ -1,2 +1,0 @@
-# Playground
-* [Publications](publications)
