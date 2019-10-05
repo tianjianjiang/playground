@@ -1,2 +1,2 @@
 # Playground
-* [Publications](docs/publications)
+* [Publications](publications)
